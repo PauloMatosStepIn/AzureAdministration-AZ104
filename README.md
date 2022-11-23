@@ -1,2 +1,1 @@
-# AzureAdministration-AZ104
-Azure Administration (AZ-104)
+# AzureAdministration (AZ-104)
